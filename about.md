@@ -8,5 +8,5 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an international student from Korea studying Computer Science at NYU in my spring semester of Junior year.
 
